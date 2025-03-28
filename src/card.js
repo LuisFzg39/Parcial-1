@@ -1,0 +1,6 @@
+class Card extends HTMLElement {
+
+    
+
+
+}
